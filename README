@@ -1,1 +1,2 @@
 This is my second Git and GitHub test conducted on my computer.
+The 'input_data.py' is an function to realize loading dataset(60000) and separate it to traing_data(50000) and test_data(10000) ; The mnist_1.py is an function to creat and execute(do it) graph(TensorFlow).
